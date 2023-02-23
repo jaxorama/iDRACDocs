@@ -1,10 +1,14 @@
 # iDRAC Documents
 
 # iDRAC9 User Manuals
-- Manuals on Support Site - https://www.dell.com/support/home/en-us/product-support/product/servers-solution-resources/docs
-- iDRAC9 User Guide (6.00.30.00) - https://dl.dell.com/content/manual38875502-integrated-dell-remote-access-controller-9-user-s-guide.pdf?language=en-us&ps=true
-- iDRAC9 Security Configuration Guide
-- iDRAC9 Firmware Downloads - https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=c8nt1&oscode=wst14&productcode=poweredge-r640
+- Server Manuals on Support Site - https://www.dell.com/support/home/en-us/product-support/product/servers-solution-resources/docs
+- User Documentation site (6.x) - https://www.dell.com/support/home/en-us/product-support/product/idrac9-lifecycle-controller-v6.x-series/docs
+- User Guide (6.00.30.00) - https://dl.dell.com/content/manual38875502-integrated-dell-remote-access-controller-9-user-s-guide.pdf?language=en-us&ps=true
+- Security Configuration Guide (Dec 2022) - https://dl.dell.com/content/manual25781863-idrac9-security-configuration-guide.pdf?language=en-us&ps=true 
+- Firmware Downloads - https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=c8nt1&oscode=wst14&productcode=poweredge-r640
+- Versions and Release Notes - https://www.dell.com/support/kbdoc/en-us/000178115/idrac9-versions-and-release-notes
+- Attribute Registry (Feb 2023) - https://dl.dell.com/content/manual11886670-integrated-dell-remote-access-controller-9-attribute-registry.pdf?language=en-us&ps=true
+- RACADM CLI Guide - https://dl.dell.com/content/manual11141900-integrated-dell-remote-access-controller-9-racadm-cli-guide.pdf?language=en-us&ps=true
 
 # iDRAC9 Redfish Documentation
 - Redfish API (6.xx) https://developer.dell.com/apis/2978/versions/6.xx/docs/0WhatsNew.md
@@ -19,3 +23,5 @@
 # iDRAC9 Telemetry
 - Telemetry Reference Tools - https://github.com/dell/iDRAC-Telemetry-Reference-Tools
 - Telemetry scripting - https://github.com/dell/iDRAC-Telemetry-Scripting
+- Telemetry streaming for storage - https://dl.dell.com/manuals/common/dell-emc-idrac9-telemetry-streaming-storage-report.pdf
+- 
