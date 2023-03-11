@@ -24,4 +24,7 @@
 - Telemetry Reference Tools - https://github.com/dell/iDRAC-Telemetry-Reference-Tools
 - Telemetry scripting - https://github.com/dell/iDRAC-Telemetry-Scripting
 - Telemetry streaming for storage - https://dl.dell.com/manuals/common/dell-emc-idrac9-telemetry-streaming-storage-report.pdf
+- https://dl.dell.com/manuals/common/dell-emc-idrac9-telemetry-streaming-basics.pdf
+- https://dl.dell.com/manuals/common/dell-emc-telemetry-customreports-getstarted.pdf
+
 - 
