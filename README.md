@@ -17,6 +17,7 @@
 - GUI to Redfish mapping - https://dl.dell.com/content/manual24821844-idrac9-user-interface-to-redfish-mapping.pdf?language=en-us
 - Redfish Eventing - https://dl.dell.com/manuals/common/dell-emc-redfish-eventing-idrac-alerts.pdf
 - Redfish Lifecycle Eventing - https://dl.dell.com/manuals/all-products/esuprt_solutions_int/esuprt_solutions_int_solutions_resources/dell-management-solution-resources_white-papers26_en-us.pdf
+- Server Configuration Profile - https://dl.dell.com/manuals/common/dellemc-server-config-profile-refguide.pdf
 
 # iDRAC9 Redfish Scripts
 - Github Redfish - https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20Python
