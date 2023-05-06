@@ -7,8 +7,8 @@
 - Security Configuration Guide (Dec 2022) - https://dl.dell.com/content/manual25781863-idrac9-security-configuration-guide.pdf?language=en-us&ps=true 
 - Firmware Downloads - https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=c8nt1&oscode=wst14&productcode=poweredge-r640
 - Versions and Release Notes - https://www.dell.com/support/kbdoc/en-us/000178115/idrac9-versions-and-release-notes
-- Attribute Registry (Feb 2023) - https://dl.dell.com/content/manual11886670-integrated-dell-remote-access-controller-9-attribute-registry.pdf?language=en-us&ps=true
-- RACADM CLI Guide - https://dl.dell.com/content/manual11141900-integrated-dell-remote-access-controller-9-racadm-cli-guide.pdf?language=en-us&ps=true
+- Attribute Registry (Feb 2023) - https://dl.dell.com/content/manual36782628-integrated-dell-remote-access-controller-9-attribute-registry.pdf?language=en-us
+- RACADM CLI Guide - https://dl.dell.com/content/manual35024470-integrated-dell-remote-access-controller-9-racadm-cli-guide.pdf?language=en-us
 
 # iDRAC9 Redfish Documentation
 - Redfish API (6.xx) https://developer.dell.com/apis/2978/versions/6.xx/docs/0WhatsNew.md
