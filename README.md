@@ -2,8 +2,8 @@
 
 # iDRAC9 User Manuals
 - Server Manuals on Support Site - https://www.dell.com/support/home/en-us/product-support/product/servers-solution-resources/docs
-- User Documentation site (6.x) - https://www.dell.com/support/home/en-us/product-support/product/idrac9-lifecycle-controller-v6.x-series/docs
-- User Guide (6.10.85.00) - https://dl.dell.com/content/manual54715733-integrated-dell-remote-access-controller-9-user-s-guide.pdf?language=en-us
+- User Documentation site (7.x) - https://www.dell.com/support/home/en-us/product-support/product/idrac9-lifecycle-controller-v7.x-series/docs
+- User Guide (7.00.30.00) - https://dl.dell.com/content/manual71585839-integrated-dell-remote-access-controller-9-user-s-guide.pdf?language=en-us
 - Security Configuration Guide (Dec 2022) - https://dl.dell.com/content/manual25781863-idrac9-security-configuration-guide.pdf?language=en-us&ps=true 
 - Firmware Downloads - https://www.dell.com/support/home/en-us/drivers/driversdetails?driverid=c8nt1&oscode=wst14&productcode=poweredge-r640
 - Versions and Release Notes - https://www.dell.com/support/kbdoc/en-us/000178115/idrac9-versions-and-release-notes
