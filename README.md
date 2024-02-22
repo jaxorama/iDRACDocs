@@ -36,4 +36,7 @@
 - https://dl.dell.com/manuals/common/dell-emc-idrac9-telemetry-streaming-basics.pdf
 - https://dl.dell.com/manuals/common/dell-emc-telemetry-customreports-getstarted.pdf
 
+# iDRAC9 Key Management
+- iDRAC Local Key Management - https://dl.dell.com/content/manual10376318-enable-idrac-local-key-management-on-dell-poweredge-servers.pdf?language=en-us
+- iDRAC Secure Enterprise Key Management (SEKM) - https://dl.dell.com/content/manual24526085-enable-openmanage-secure-enterprise-key-manager-sekm-on-dell-poweredge-servers.pdf?language=en-us
 - 
