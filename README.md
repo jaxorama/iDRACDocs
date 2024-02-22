@@ -17,9 +17,12 @@
 - GUI to Redfish mapping - https://dl.dell.com/content/manual24821844-idrac9-user-interface-to-redfish-mapping.pdf?language=en-us
 - Redfish Eventing - https://dl.dell.com/manuals/common/dell-emc-redfish-eventing-idrac-alerts.pdf
 - Redfish Lifecycle Eventing - https://dl.dell.com/manuals/all-products/esuprt_solutions_int/esuprt_solutions_int_solutions_resources/dell-management-solution-resources_white-papers26_en-us.pdf
+- Manage iDRAC Alerts using Redfish Events (Jan 2024) - https://dl.dell.com/content/manual25179357-manage-idrac-alerts-using-the-redfish-eventing-feature-on-poweredge-servers.pdf?language=en-us
+- Firmware Update using Redfish APIs (Feb 2024) - https://dl.dell.com/content/manual26835562-remotely-update-firmware-on-poweredge-servers-using-redfish-apis.pdf?language=en-us
 - Server Configuration Profile - https://dl.dell.com/manuals/common/dellemc-server-config-profile-refguide.pdf
 - Virtual Media Solution for ISO & IMG - https://dl.dell.com/content/manual8432576-idrac9-virtual-media-solution-for-iso-and-img.pdf?language=en-us
-- DMTF OAuth2 Delegated Authentication - https://dl.dell.com/content/manual24710491-idrac-support-for-dmtf-oauth2-delegated-authentication.pdf?language=en-us
+- Manage Virtual Media using Redfish (Feb 2024) - https://dl.dell.com/content/manual18261993-manage-idrac-virtual-media-using-redfish.pdf?language=en-us
+-  DMTF OAuth2 Delegated Authentication - https://dl.dell.com/content/manual24710491-idrac-support-for-dmtf-oauth2-delegated-authentication.pdf?language=en-us
 - 
 
 # iDRAC9 Redfish Scripts
