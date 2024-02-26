@@ -14,6 +14,7 @@
 
 # iDRAC9 Redfish Documentation
 - Redfish API (6.xx) https://developer.dell.com/apis/2978/versions/6.xx/docs/0WhatsNew.md
+- Redfish API (7.xx) https://developer.dell.com/apis/2978/versions/7.xx/docs/0WhatsNew.md
 - Redfish FAQ (Dec 2022) - https://dl.dell.com/content/manual16004247-idrac-redfish-faq.pdf?language=en-us
 - RACADM to Redfish mapping (Dec 2022) - https://dl.dell.com/content/manual9969682-idrac9-racadm-to-redfish-mapping.pdf?language=en-us
 - GUI to Redfish mapping - https://dl.dell.com/content/manual24821844-idrac9-user-interface-to-redfish-mapping.pdf?language=en-us
