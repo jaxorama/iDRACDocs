@@ -6,11 +6,11 @@
  
 # iDRAC9 User Manuals
 - User Documentation site (7.x) - https://www.dell.com/support/home/en-us/product-support/product/idrac9-lifecycle-controller-v7.x-series/docs
-- User Guide (7.00.60.00) - https://dl.dell.com/content/manual71585839-integrated-dell-remote-access-controller-9-user-s-guide.pdf?language=en-us
-- Security Configuration Guide (Dec 2023) - https://dl.dell.com/content/manual75408633-idrac9-security-configuration-guide.pdf?language=en-us
+- User Guide (7.10.30.00) - https://dl.dell.com/content/manual71585839-integrated-dell-remote-access-controller-9-user-s-guide.pdf?language=en-us
+- Security Configuration Guide (March 2024) - https://dl.dell.com/content/manual75408633-idrac9-security-configuration-guide.pdf?language=en-us
 - Versions and Release Notes - https://www.dell.com/support/kbdoc/en-us/000178115/idrac9-versions-and-release-notes
-- Attribute Registry (Dec 2023) - https://dl.dell.com/content/manual66164609-integrated-dell-remote-access-controller-9-attribute-registry.pdf?language=en-us
-- RACADM CLI Guide (Dec 2023) - https://dl.dell.com/content/manual65464730-integrated-dell-remote-access-controller-9-racadm-cli-guide.pdf?language=en-us
+- Attribute Registry (March 2024) - https://dl.dell.com/content/manual4668871-integrated-dell-remote-access-controller-9-attribute-registry.pdf?language=en-us
+- RACADM CLI Guide (March 2024) - https://dl.dell.com/content/manual65464730-integrated-dell-remote-access-controller-9-racadm-cli-guide.pdf?language=en-us
 
 # iDRAC9 Redfish Documentation
 - Redfish API (6.xx) https://developer.dell.com/apis/2978/versions/6.xx/docs/0WhatsNew.md
