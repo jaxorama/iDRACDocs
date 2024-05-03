@@ -26,6 +26,7 @@
 - Virtual Media Solution for ISO & IMG - https://dl.dell.com/content/manual8432576-idrac9-virtual-media-solution-for-iso-and-img.pdf?language=en-us
 - Manage Virtual Media using Redfish (Feb 2024) - https://dl.dell.com/content/manual18261993-manage-idrac-virtual-media-using-redfish.pdf?language=en-us
 -  DMTF OAuth2 Delegated Authentication - https://dl.dell.com/content/manual24710491-idrac-support-for-dmtf-oauth2-delegated-authentication.pdf?language=en-us
+- WSMAN to Redfish mappin - https://dl.dell.com/content/manual17005532-idrac9-vs-idrac8-restful-api-capabilities.pdf?language=en-us
 
 # iDRAC9 Redfish Scripts
 - Github Redfish - https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20Python
