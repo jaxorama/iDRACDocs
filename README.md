@@ -27,6 +27,7 @@
 - Manage Virtual Media using Redfish (Feb 2024) - https://dl.dell.com/content/manual18261993-manage-idrac-virtual-media-using-redfish.pdf?language=en-us
 -  DMTF OAuth2 Delegated Authentication - https://dl.dell.com/content/manual24710491-idrac-support-for-dmtf-oauth2-delegated-authentication.pdf?language=en-us
 - WSMAN to Redfish mappin - https://dl.dell.com/content/manual17005532-idrac9-vs-idrac8-restful-api-capabilities.pdf?language=en-us
+- EEMI - Error Message Guide - https://i.dell.com/qrl/Files/en-us/html/Common/EEMI_Guide.pdf
 
 # iDRAC9 Redfish Scripts
 - Github Redfish - https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20Python
