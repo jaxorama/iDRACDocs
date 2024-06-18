@@ -34,6 +34,7 @@
 - Youtube channel - https://www.youtube.com/watch?v=d90mX1W51S0&list=PLe5xhhyFjDPcUPEcwVd--1pS17nFNiHTd
 
 # DMTF Redfish Documentation
+- DMTF Redfish Schema Index - https://redfish.dmtf.org/redfish/schema_index
 - 
 
 # iDRAC9 Telemetry
