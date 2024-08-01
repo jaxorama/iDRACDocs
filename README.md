@@ -15,25 +15,29 @@
 # iDRAC9 Redfish Documentation
 - Redfish API (6.xx) https://developer.dell.com/apis/2978/versions/6.xx/docs/0WhatsNew.md
 - Redfish API (7.xx) https://developer.dell.com/apis/2978/versions/7.xx/docs/0WhatsNew.md
+- Redfish Implementation on Dell PowerEdge Servers - https://downloads.dell.com/solutions/dell-management-solution-resources/Implementation%20of%20the%20DMTF%20Redfish%20API%20on%20Dell%20EMC%20PowerEdge%20Servers.pdf
 - Redfish FAQ (Dec 2022) - https://dl.dell.com/content/manual16004247-idrac-redfish-faq.pdf?language=en-us
 - RACADM to Redfish mapping (Dec 2022) - https://dl.dell.com/content/manual9969682-idrac9-racadm-to-redfish-mapping.pdf?language=en-us
-- GUI to Redfish mapping - https://dl.dell.com/content/manual24821844-idrac9-user-interface-to-redfish-mapping.pdf?language=en-us
+- GUI to Redfish mapping - https://dl.dell.com/content/manual25212104-idrac9-user-interface-to-redfish-mapping.pdf?language=en-us
 - Redfish Eventing - https://dl.dell.com/manuals/common/dell-emc-redfish-eventing-idrac-alerts.pdf
 - Redfish Lifecycle Eventing - https://dl.dell.com/manuals/all-products/esuprt_solutions_int/esuprt_solutions_int_solutions_resources/dell-management-solution-resources_white-papers26_en-us.pdf
 - Manage iDRAC Alerts using Redfish Events (Jan 2024) - https://dl.dell.com/content/manual25179357-manage-idrac-alerts-using-the-redfish-eventing-feature-on-poweredge-servers.pdf?language=en-us
 - Firmware Update using Redfish APIs (Feb 2024) - https://dl.dell.com/content/manual26835562-remotely-update-firmware-on-poweredge-servers-using-redfish-apis.pdf?language=en-us
 - Server Configuration Profile - https://dl.dell.com/manuals/common/dellemc-server-config-profile-refguide.pdf
+- Server Configuration Profile Reference Guide - https://infohub.delltechnologies.com/en-us/t/server-configuration-profiles-reference-guide/
 - Virtual Media Solution for ISO & IMG - https://dl.dell.com/content/manual8432576-idrac9-virtual-media-solution-for-iso-and-img.pdf?language=en-us
 - Manage Virtual Media using Redfish (Feb 2024) - https://dl.dell.com/content/manual18261993-manage-idrac-virtual-media-using-redfish.pdf?language=en-us
--  DMTF OAuth2 Delegated Authentication - https://dl.dell.com/content/manual24710491-idrac-support-for-dmtf-oauth2-delegated-authentication.pdf?language=en-us
+- DMTF OAuth2 Delegated Authentication - https://dl.dell.com/content/manual24710491-idrac-support-for-dmtf-oauth2-delegated-authentication.pdf?language=en-us
 - WSMAN to Redfish mappin - https://dl.dell.com/content/manual17005532-idrac9-vs-idrac8-restful-api-capabilities.pdf?language=en-us
 - EEMI - Error Message Guide - https://i.dell.com/qrl/Files/en-us/html/Common/EEMI_Guide.pdf
+- Redfish Simulator - https://dl.dell.com/content/manual7490099-simulate-an-idrac-redfish-environment-using-redfish-mockup-server.pdf?language=en-us
 
 # iDRAC9 Redfish Scripts
 - Github Redfish - https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20Python
 - Youtube channel - https://www.youtube.com/watch?v=d90mX1W51S0&list=PLe5xhhyFjDPcUPEcwVd--1pS17nFNiHTd
 
 # DMTF Redfish Documentation
+- Redfish - https://www.dmtf.org/standards/redfish
 - DMTF Redfish Schema Index - https://redfish.dmtf.org/redfish/schema_index
 - 
 
