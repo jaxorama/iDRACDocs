@@ -39,7 +39,9 @@
 # DMTF Redfish Documentation
 - Redfish - https://www.dmtf.org/standards/redfish
 - DMTF Redfish Schema Index - https://redfish.dmtf.org/redfish/schema_index
-- 
+- Redfish Specification - https://www.dmtf.org/sites/default/files/standards/documents/DSP0266_1.20.2.pdf (August 2024)
+- Redfish Data Model Specification - https://www.dmtf.org/sites/default/files/standards/documents/DSP0268_2024.2.pdf (July 2024)
+- Redfish Resource & Schema Guide - https://www.dmtf.org/sites/default/files/standards/documents/DSP2046_2024.2.pdf
 
 # iDRAC9 Telemetry
 - Telemetry Reference Tools - https://github.com/dell/iDRAC-Telemetry-Reference-Tools
