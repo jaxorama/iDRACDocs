@@ -31,6 +31,7 @@
 - WSMAN to Redfish mappin - https://dl.dell.com/content/manual17005532-idrac9-vs-idrac8-restful-api-capabilities.pdf?language=en-us
 - EEMI - Error Message Guide - https://i.dell.com/qrl/Files/en-us/html/Common/EEMI_Guide.pdf
 - Redfish Simulator - https://dl.dell.com/content/manual7490099-simulate-an-idrac-redfish-environment-using-redfish-mockup-server.pdf?language=en-us
+- Manage Web Certificates - https://infohub.delltechnologies.com/static/media/client/7phukh/DAM_ae99a869-4cde-41c6-9c79-82d582d2e5a3.pdf 
 
 # iDRAC9 Redfish Scripts
 - Github Redfish - https://github.com/dell/iDRAC-Redfish-Scripting/tree/master/Redfish%20Python
