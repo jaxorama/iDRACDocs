@@ -12,6 +12,9 @@
 - Attribute Registry (Dec 2024) - https://dl.dell.com/content/manual83832917-integrated-dell-remote-access-controller-9-attribute-registry.pdf?language=en-us
 - RACADM CLI Guide (March 2024) - https://dl.dell.com/content/manual65464730-integrated-dell-remote-access-controller-9-racadm-cli-guide.pdf?language=en-us
 
+# iDRAC10 Redfish Documentation 
+- iDRAC10 Redfish Enhancements - https://dl.dell.com/content/manual13739887-overview-of-idrac10-redfish-enhancements.pdf?language=en-us
+  
 # iDRAC9 Redfish Documentation
 - Redfish API (6.xx) https://developer.dell.com/apis/2978/versions/6.xx/docs/0WhatsNew.md
 - Redfish API (7.xx) https://developer.dell.com/apis/2978/versions/7.xx/docs/0WhatsNew.md
