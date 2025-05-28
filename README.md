@@ -11,7 +11,9 @@
 - Versions and Release Notes - https://dl.dell.com/content/manual64827966-idrac9-version-7-20-05-10-release-notes.pdf?language=en-us
 - Attribute Registry (Dec 2024) - https://dl.dell.com/content/manual83832917-integrated-dell-remote-access-controller-9-attribute-registry.pdf?language=en-us
 - RACADM CLI Guide (March 2024) - https://dl.dell.com/content/manual21912012-integrated-dell-remote-access-controller-9-racadm-cli-guide.pdf?language=en-us
-
+- Error Message Registry - https://www.dell.com/support/product-details/en-us/product/error-events-codes/docs
+- EEMI - Error Message Guide - https://i.dell.com/qrl/Files/en-us/html/Common/EEMI_Guide.pdf
+  
 # iDRAC10 Redfish Documentation 
 - iDRAC10 Redfish Enhancements - https://dl.dell.com/content/manual13739887-overview-of-idrac10-redfish-enhancements.pdf?language=en-us
   
@@ -32,7 +34,7 @@
 - Manage Virtual Media using Redfish (Feb 2024) - https://dl.dell.com/content/manual18261993-manage-idrac-virtual-media-using-redfish.pdf?language=en-us
 - DMTF OAuth2 Delegated Authentication - https://dl.dell.com/content/manual24710491-idrac-support-for-dmtf-oauth2-delegated-authentication.pdf?language=en-us
 - WSMAN to Redfish mappin - https://dl.dell.com/content/manual17005532-idrac9-vs-idrac8-restful-api-capabilities.pdf?language=en-us
-- EEMI - Error Message Guide - https://i.dell.com/qrl/Files/en-us/html/Common/EEMI_Guide.pdf
+
 - Redfish Simulator - https://dl.dell.com/content/manual7490099-simulate-an-idrac-redfish-environment-using-redfish-mockup-server.pdf?language=en-us
 - Manage Web Certificates - https://infohub.delltechnologies.com/static/media/client/7phukh/DAM_ae99a869-4cde-41c6-9c79-82d582d2e5a3.pdf 
 
