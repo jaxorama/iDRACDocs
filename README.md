@@ -15,6 +15,14 @@
 - PowerEdge Error Message Registry - https://dl.dell.com/content/manual28994922-poweredge-servers-error-and-event-messages-reference-guide.pdf?language=en-us
 
 # iDRAC10 User Manuals
+- User Documentation site (1.x) - https://www.dell.com/support/product-details/en-us/product/idrac10-lifecycle-controller-v2-xx-series/resources/manuals
+- User Guide (1.20.60.50) - https://dl.dell.com/content/manual62388972-idrac10-version-1-20-xx-user-s-guide.pdf?language=en-us
+- Security Configuration Guide - https://dl.dell.com/content/manual63182446-idrac10-version-1-20-xx-security-configuration-guide.pdf?language=en-us
+- Versions and Release Notes - https://dl.dell.com/content/manual7088515-idrac10-version-1-20-60-50-release-notes.pdf?language=en-us
+- RACADM CLI Guide - https://dl.dell.com/content/manual36755774-integrated-dell-remote-access-controller-10-racadm-cli-guide.pdf?language=en-us
+- Attribute Registry - https://dl.dell.com/content/manual60102853-integrated-dell-remote-access-controller-10-version-1-20-xx-series-attribute-registry.pdf?language=en-us
+- iDRAC Error Message Registry - https://dl.dell.com/content/manual49775703-idrac-error-and-event-messages-reference-guide.pdf?language=en-us
+- PowerEdge Error Message Registry - https://dl.dell.com/content/manual28994922-poweredge-servers-error-and-event-messages-reference-guide.pdf?language=en-us
 
 # iDRAC10 Redfish Documentation 
 - iDRAC10 Redfish Enhancements - https://dl.dell.com/content/manual13739887-overview-of-idrac10-redfish-enhancements.pdf?language=en-us
