@@ -1,4 +1,4 @@
-# iDRAC Documents
+# iDRAC Documents in the Public Domain
 # PowerEdge Server Documentation
 - Infohub (Whitepapers, Videos, Blogs) - https://infohub.delltechnologies.com/en-US/t/servers/
 - Server Manuals on Support Site - https://www.dell.com/support/home/en-us/product-support/product/servers-solution-resources/docs
